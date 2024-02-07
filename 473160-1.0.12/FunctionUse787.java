@@ -1,0 +1,7 @@
+import ch.qos.logback.core.net.server.ServerSocketAppenderBase;
+public class FunctionUse787 {
+public void funcUse() {
+ServerSocketAppenderBase serversocketappenderbase = new ServerSocketAppenderBase();
+serversocketappenderbase.getBacklog();
+}
+}
